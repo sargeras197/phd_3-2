@@ -1,0 +1,20 @@
+// Behaviour Algebra actions
+
+// Generated guard actions begin
+guard1 : rsi == 0x4234c0 -> 1,
+guard2 : rsi == 0x4239d0 -> 1,
+guard3 : QWORD PTR [0x43ca40] == 0x40d5c0 -> 1,
+guard4 : QWORD PTR [0x43ca48] == 0x40d750 -> 1,
+guard5 : QWORD PTR [0x43ca38] == 0x40d790 -> 1,
+guard6 : QWORD PTR [0x43ca38] == 0x432b15 -> 1,
+guard7 : rdx == 0x41a000 -> 1,
+guard8 : rdx == 0x41b170 -> 1,
+guard9 : rdx == 0x422070 -> 1,
+guard10 : rdx == 0x422c20 -> 1,
+guard11 : rdx == 0x422cb0 -> 1,
+guard12 : rsi == 0x50533060 -> 1,
+guard13 : rsi == 0x505469b0 -> 1,
+guard14 : rsi == 0x50561700 -> 1,
+guard15 : rsi == 0x50562420 -> 1,
+guard16 : rdx == 0x5051bbb0 -> 1,
+// Generated guard actions end
